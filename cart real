@@ -1,0 +1,29 @@
+  // <table class="table">
+            <tr>
+                <th>Product</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Remove</th>
+            </tr>
+            <tr>
+                <td class = "name">iPhone 12</td>
+                <td class = "name"></td>
+                <td class = "name">$1000</td>
+                <td class = "btn"><button class="btn-grad1">Remove</button></td>
+                
+            </tr>
+            <tr>
+                <td class = "name">AirPods Max</td>
+                <td class = "name"></td>
+                <td class = "name">$1000</td>
+                <td class = "btn"><button class="btn-grad1">Remove</button></td>
+            </tr>
+            <tr>
+                <td class = "name">Samsung : The Frame TV</td>
+                <td class = "name"></td>
+                <td class = "name">$2000</td>
+                <td class = "btn"><button class="btn-grad1">Remove</button></td>
+            </tr>
+        </table>
+    </div>
+    <script src="script.js"></script> //
